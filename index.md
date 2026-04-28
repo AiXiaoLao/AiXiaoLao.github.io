@@ -1,6 +1,6 @@
 ---
 title: 客户流失生存分析报告
-author: 您的名字
+author: 夏浩喆
 date: 2026-04-28
 layout: post
 ---
